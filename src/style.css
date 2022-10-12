@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: grey;
+  margin: 0 auto;
+}
